@@ -1,0 +1,250 @@
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.csproj.AssemblyReference.cache
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.AssemblyInfoInputs.cache
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.AssemblyInfo.cs
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.csproj.CoreCompileInputs.cache
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\appsettings.json
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.exe
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.deps.json
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.runtimeconfig.json
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.dll
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.pdb
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.BL.dll
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.DAL.dll
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.Models.dll
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.BL.pdb
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.Models.pdb
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.DAL.pdb
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\scopedcss\bundle\Students.API.styles.css
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.csproj.CopyComplete
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.dll
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\refint\Students.API.dll
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.pdb
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.genruntimeconfig.cache
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\ref\Students.API.dll
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Mapster.dll
+D:\Engineering Training\Day 06\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Mapster.Core.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\appsettings.json
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.exe
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.deps.json
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.runtimeconfig.json
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.pdb
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Dapper.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Mapster.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Mapster.Core.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.BL.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.DAL.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.Models.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.BL.pdb
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.Models.pdb
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.DAL.pdb
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.csproj.AssemblyReference.cache
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.AssemblyInfoInputs.cache
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.AssemblyInfo.cs
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.csproj.CoreCompileInputs.cache
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\scopedcss\bundle\Students.API.styles.css
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.csproj.CopyComplete
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\refint\Students.API.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.pdb
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.genruntimeconfig.cache
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\ref\Students.API.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\appsettings.json
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.exe
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.deps.json
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.runtimeconfig.json
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.pdb
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Dapper.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Mapster.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Mapster.Core.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.BL.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.DAL.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.Models.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.BL.pdb
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.Models.pdb
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.DAL.pdb
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.csproj.AssemblyReference.cache
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.AssemblyInfoInputs.cache
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.AssemblyInfo.cs
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.csproj.CoreCompileInputs.cache
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\scopedcss\bundle\Students.API.styles.css
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.csproj.CopyComplete
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\refint\Students.API.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.pdb
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.genruntimeconfig.cache
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\ref\Students.API.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\appsettings.json
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.exe
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.deps.json
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.runtimeconfig.json
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.API.pdb
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Dapper.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Mapster.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Mapster.Core.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.BL.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.DAL.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.Models.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.BL.pdb
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.Models.pdb
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\bin\Debug\net6.0\Students.DAL.pdb
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.csproj.AssemblyReference.cache
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.AssemblyInfoInputs.cache
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.AssemblyInfo.cs
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.csproj.CoreCompileInputs.cache
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\scopedcss\bundle\Students.API.styles.css
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.csproj.CopyComplete
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\refint\Students.API.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.pdb
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\Students.API.genruntimeconfig.cache
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\StudentAPI\obj\Debug\net6.0\ref\Students.API.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\appsettings.json
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Students.API.exe
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Students.API.deps.json
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Students.API.runtimeconfig.json
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Students.API.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Students.API.pdb
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Dapper.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Mapster.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Mapster.Core.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Students.BL.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Students.DAL.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Students.Models.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Utility.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Students.BL.pdb
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Students.Models.pdb
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Utility.pdb
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Students.DAL.pdb
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\obj\Debug\net6.0\Students.API.csproj.AssemblyReference.cache
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\obj\Debug\net6.0\Students.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\obj\Debug\net6.0\Students.API.AssemblyInfoInputs.cache
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\obj\Debug\net6.0\Students.API.AssemblyInfo.cs
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\obj\Debug\net6.0\Students.API.csproj.CoreCompileInputs.cache
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\obj\Debug\net6.0\Students.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\obj\Debug\net6.0\Students.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\obj\Debug\net6.0\scopedcss\bundle\Students.API.styles.css
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\obj\Debug\net6.0\Students.API.csproj.CopyComplete
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\obj\Debug\net6.0\Students.API.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\obj\Debug\net6.0\refint\Students.API.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\obj\Debug\net6.0\Students.API.pdb
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\obj\Debug\net6.0\Students.API.genruntimeconfig.cache
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\obj\Debug\net6.0\ref\Students.API.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Scrutor.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Engineering Training\Day 13\JWT Token\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll

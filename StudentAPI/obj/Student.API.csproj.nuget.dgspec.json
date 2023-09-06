@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\StudentAPI\\Student.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.BL\\Students.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.BL\\Students.BL.csproj",
+        "projectName": "Students.BL",
+        "projectPath": "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.BL\\Students.BL.csproj",
+        "packagesPath": "C:\\Users\\alisha.momin\\.nuget\\packages\\",
+        "outputPath": "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alisha.momin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.DAL\\Students.DAL.csproj": {
+                "projectPath": "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.DAL\\Students.DAL.csproj"
+              },
+              "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.Models\\Students.Models.csproj": {
+                "projectPath": "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.Models\\Students.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.DAL\\Students.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.DAL\\Students.DAL.csproj",
+        "projectName": "Students.DAL",
+        "projectPath": "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.DAL\\Students.DAL.csproj",
+        "packagesPath": "C:\\Users\\alisha.momin\\.nuget\\packages\\",
+        "outputPath": "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alisha.momin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.Models\\Students.Models.csproj": {
+                "projectPath": "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.Models\\Students.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.Models\\Students.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.Models\\Students.Models.csproj",
+        "projectName": "Students.Models",
+        "projectPath": "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.Models\\Students.Models.csproj",
+        "packagesPath": "C:\\Users\\alisha.momin\\.nuget\\packages\\",
+        "outputPath": "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alisha.momin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\StudentAPI\\Student.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\StudentAPI\\Student.API.csproj",
+        "projectName": "Student.API",
+        "projectPath": "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\StudentAPI\\Student.API.csproj",
+        "packagesPath": "C:\\Users\\alisha.momin\\.nuget\\packages\\",
+        "outputPath": "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\StudentAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alisha.momin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.BL\\Students.BL.csproj": {
+                "projectPath": "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.BL\\Students.BL.csproj"
+              },
+              "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.Models\\Students.Models.csproj": {
+                "projectPath": "D:\\Engineering Training\\Day 06\\StudentSolutionAPI\\Student.Models\\Students.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+D:\Engineering Training\Day 06\StudentSolutionAPI\Student.Models\bin\Debug\net6.0\Students.Models.deps.json
+D:\Engineering Training\Day 06\StudentSolutionAPI\Student.Models\bin\Debug\net6.0\Students.Models.dll
+D:\Engineering Training\Day 06\StudentSolutionAPI\Student.Models\bin\Debug\net6.0\Students.Models.pdb
+D:\Engineering Training\Day 06\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.csproj.AssemblyReference.cache
+D:\Engineering Training\Day 06\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engineering Training\Day 06\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.AssemblyInfoInputs.cache
+D:\Engineering Training\Day 06\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.AssemblyInfo.cs
+D:\Engineering Training\Day 06\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.csproj.CoreCompileInputs.cache
+D:\Engineering Training\Day 06\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.dll
+D:\Engineering Training\Day 06\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\refint\Students.Models.dll
+D:\Engineering Training\Day 06\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.pdb
+D:\Engineering Training\Day 06\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\ref\Students.Models.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\Student.Models\bin\Debug\net6.0\Students.Models.deps.json
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\Student.Models\bin\Debug\net6.0\Students.Models.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\Student.Models\bin\Debug\net6.0\Students.Models.pdb
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.csproj.AssemblyReference.cache
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.AssemblyInfoInputs.cache
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.AssemblyInfo.cs
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.csproj.CoreCompileInputs.cache
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\refint\Students.Models.dll
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.pdb
+D:\Engineering Training\Day 07\Task2-ORM\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\ref\Students.Models.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\Student.Models\bin\Debug\net6.0\Students.Models.deps.json
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\Student.Models\bin\Debug\net6.0\Students.Models.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\Student.Models\bin\Debug\net6.0\Students.Models.pdb
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.csproj.AssemblyReference.cache
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.AssemblyInfoInputs.cache
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.AssemblyInfo.cs
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.csproj.CoreCompileInputs.cache
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\refint\Students.Models.dll
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.pdb
+D:\Engineering Training\Day 07\Task3-GenericBaseRepo\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\ref\Students.Models.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\Student.Models\bin\Debug\net6.0\Students.Models.deps.json
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\Student.Models\bin\Debug\net6.0\Students.Models.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\Student.Models\bin\Debug\net6.0\Students.Models.pdb
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.csproj.AssemblyReference.cache
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.AssemblyInfoInputs.cache
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.AssemblyInfo.cs
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.csproj.CoreCompileInputs.cache
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\refint\Students.Models.dll
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\Students.Models.pdb
+D:\Engineering Training\Day 08\Task1-GenericBaseRepo\StudentSolutionAPI\Student.Models\obj\Debug\net6.0\ref\Students.Models.dll
+D:\Engineering Training\Day 13\JWT Token\Student.Models\bin\Debug\net6.0\Students.Models.deps.json
+D:\Engineering Training\Day 13\JWT Token\Student.Models\bin\Debug\net6.0\Students.Models.dll
+D:\Engineering Training\Day 13\JWT Token\Student.Models\bin\Debug\net6.0\Students.Models.pdb
+D:\Engineering Training\Day 13\JWT Token\Student.Models\obj\Debug\net6.0\Students.Models.csproj.AssemblyReference.cache
+D:\Engineering Training\Day 13\JWT Token\Student.Models\obj\Debug\net6.0\Students.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engineering Training\Day 13\JWT Token\Student.Models\obj\Debug\net6.0\Students.Models.AssemblyInfoInputs.cache
+D:\Engineering Training\Day 13\JWT Token\Student.Models\obj\Debug\net6.0\Students.Models.AssemblyInfo.cs
+D:\Engineering Training\Day 13\JWT Token\Student.Models\obj\Debug\net6.0\Students.Models.csproj.CoreCompileInputs.cache
+D:\Engineering Training\Day 13\JWT Token\Student.Models\obj\Debug\net6.0\Students.Models.dll
+D:\Engineering Training\Day 13\JWT Token\Student.Models\obj\Debug\net6.0\refint\Students.Models.dll
+D:\Engineering Training\Day 13\JWT Token\Student.Models\obj\Debug\net6.0\Students.Models.pdb
+D:\Engineering Training\Day 13\JWT Token\Student.Models\obj\Debug\net6.0\ref\Students.Models.dll
