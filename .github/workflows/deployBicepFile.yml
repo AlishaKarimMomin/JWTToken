@@ -11,7 +11,7 @@ jobs:
       # Checkout code
     - uses: actions/checkout@main
 
-      # Log into Azure
+      # Log into Azure Account
     - uses: azure/login@v1
       with:
         tenant-id: ${{ secrets.AZURE_TENANT_ID }}
